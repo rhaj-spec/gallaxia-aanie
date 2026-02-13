@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    overflow:hidden;
+    background:black;
+    font-family:Arial, sans-serif;
+}
+
+#titulo{
+    position:absolute;
+    top:20px;
+    width:100%;
+    text-align:center;
+    color:#ff4da6;
+    font-size:28px;
+    text-shadow:0 0 20px hotpink;
+    z-index:10;
+}
